@@ -1,0 +1,9 @@
+
+
+https://www.kaggle.com/c/titanic/data
+
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
+https://www.kaggle.com/datasets/toramky/automobile-dataset
+
+https://archive.ics.uci.edu/dataset/45/heart+disease
