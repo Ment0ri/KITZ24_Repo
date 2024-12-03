@@ -1,0 +1,14 @@
+
+Liebe Kursteilnehmer*innen, 
+
+wie am Samstag, 23.11.2024, besprochen, folgen hier einige Erläuterungen für ihr DIY (Do it yourself) Projekt, das in Gruppen (minimale Gruppengröße: 1 Person, maximale Gruppengröße: 2 Personen) zu bearbeiten ist:
+
+Unter Abschnitt 1 > Daten Contoso finden sie die zur Erstellung des Dashboards relevanten Daten. Diese sind mittels PowerBI abzurufen und zu integrieren. Im Power Query Editor haben sie die Möglichkeit die Daten für ihre Zwecke aufzubereiten und zu bereinigen. Anschließend können sie in PowerBI Desktop in der Modellansicht die verschiedenen Dimensionstabellen mit der Faktentabelle verknüpfen. Wichtig: Die letzten beiden Folien der PPT-Präsentation (Abschnitt 1 > PowerBI) dienen hierzu als Hilfestellung.
+Machen sie sich vertraut mit den Daten, definieren sie eine geeignete Zielgruppe für ihr Dashboard und formulieren sie die Kernfragen eben dieser Zielgruppe. Wichtig: Schreiben sie die Zielgruppe und Kernfragen wirklich auf! 
+Erstellen sie ein Dashboard, das die Kernfragen der von ihnen angegebenen Zielgruppe beantwortet. Wichtig: Es ist nicht nötig bzw. sogar nicht zu empfehlen für jede Kernfrage eine Reportseite zu erstellen. Nutzen sie die interaktiven Möglichkeiten von PowerBI um verschiedene Kernfragen auf einer Reportseite zu beantworten.
+Nutzen sie zur Erstellung des Dashboards die erlernten Konzepte: Datenimport, Datenbereinigung, Erstellung Datenmodell, Modellierung von Interaktionen, Nutzung unterschiedlicher Visualisierungen, Dashboard-Design, etc.
+Unser nächster Termin findet am 21.12.2024 online statt. Wir werden den Vormittag nutzen, um weitere Konzepte in PowerBI kennenzulernen und zu vertiefen. Danach werden sie ca. 1-1,5 Stunden Zeit haben ihr Dashboard in ihrer Gruppe zu überarbeiten. Im Anschluss werden sie ihr Dashboard im Plenum vorstellen. Hierzu sind pro Gruppe ca. 15-20 Minuten eingeplant. 
+
+Mit freundlichen Grüßen
+
+Luca Schäfer

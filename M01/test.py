@@ -1,5 +1,0 @@
-print("hello world")
-print("Hallo2 Welt23")
-print("Hallo3 Welt234")
-print("Hallo4 Welt454")
-print("Hallo5 Welt525")
